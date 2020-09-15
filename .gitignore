@@ -1,0 +1,7 @@
+*.pyc
+.DS_Store
+.idea
+*.db
+*.conf
+.vscode/*
+__pycache__
